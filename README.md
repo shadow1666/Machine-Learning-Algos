@@ -42,13 +42,13 @@
 •Thompson Sampling
 ```
 ### Part 7:[Natural Language Processing](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Natural_Language_Processing)
-### Part 9:[Dimensionality Reduction](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Dimensionality%20Reduction) 
+### Part 8:[Dimensionality Reduction](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Dimensionality%20Reduction) 
 ```
 •Principal Component Analysis (PCA)
 •Linear Discriminant Analysis (LDA)
 •Kernel PCA
 ```
-### Part 10:[Model Selection & Boosting](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Model%20Selection%20%26%20Boosting) 
+### Part 9:[Model Selection & Boosting](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Model%20Selection%20%26%20Boosting) 
 ```
 •Model Selection
 •XGBoost
