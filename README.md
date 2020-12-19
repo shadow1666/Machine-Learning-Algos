@@ -1,9 +1,5 @@
-# Udemy Machine Learning A-Z
 
 ![the-future-of-machine-learning-is-in-finance](https://user-images.githubusercontent.com/29937202/42225404-25ff61e8-7efa-11e8-849e-046c410c801b.jpg)
-
-### By:Kirill Eremenko
-``` [Data Scientist & Forex Systems Expert]```
  
 ### Content
  
@@ -46,12 +42,6 @@
 •Thompson Sampling
 ```
 ### Part 7:[Natural Language Processing](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Natural_Language_Processing)
-
-### Part 8:[Deep Learning](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Deep%20Learning) 
-```
-•Artificial Neural Networks
-•Convolutional Neural Networks
-```
 ### Part 9:[Dimensionality Reduction](https://github.com/sam2702/Udemy-Machine-Learning-A-Z/tree/master/Dimensionality%20Reduction) 
 ```
 •Principal Component Analysis (PCA)
